@@ -1,0 +1,19 @@
+{
+  "name": "gonzalo2324-dev",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["discord", "bot", "moderation"],
+  "author": "gonzalo2324-dev",
+  "license": "ISC",
+  "description": "Bot de moderación desarrollado por gonzalo2324-dev",
+  "homepage": "https://github.com/gonzalo2324-dev",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "jimp": "^1.6.0",
+    "moment": "^2.30.1"
+  }
+}
