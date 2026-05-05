@@ -330,8 +330,7 @@ MIT License - Ver [LICENSE](LICENSE) para más detalles.
 ---
 
 ## 🆘 Soporte
-
-- **Discord**: [Únete a nuestro servidor](https://discord.gg/4txrNTwdKP)
+- **Gmail**: gonzalogr599@gmail.com
 - **GitHub**: [Reporta issues](https://github.com/gonzalo2324-dev/kigabot/issues)
 - **GitHub**: https://github.com/gonzalo2324-dev
 
